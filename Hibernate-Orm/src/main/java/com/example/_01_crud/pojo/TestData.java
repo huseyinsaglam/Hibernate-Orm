@@ -1,4 +1,4 @@
-package com.example.crud.pojo;
+package com.example._01_crud.pojo;
 
 import java.io.Serializable;
 
