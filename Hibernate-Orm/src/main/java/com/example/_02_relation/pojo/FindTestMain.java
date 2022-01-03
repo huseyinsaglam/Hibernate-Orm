@@ -7,7 +7,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.persistence.Query;
 
-import com.example.crud.pojo.TestData;
+import com.example._01_crud.pojo.TestData;
 
 public class FindTestMain {
 
